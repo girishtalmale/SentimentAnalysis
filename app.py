@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv('D:/Wipro/Wipro Advance AIML/Project 22/data/processed_survey.csv')  # Replace with the correct path to your processed dataset
-results = pd.read_csv('D:/Wipro/Wipro Advance AIML/Project 22/data/model_resultsmain.csv')  # Replace with the path to your model evaluation results
+df = pd.read_csv('D:/Wipro/Wipro Advance AIML/Project 23/data/processed_survey.csv')  # Replace with the correct path to your processed dataset
+results = pd.read_csv('D:/Wipro/Wipro Advance AIML/Project 23/data/model_resultsmain.csv')  # Replace with the path to your model evaluation results
 
 st.title("College Survey Sentiment Analysis Dashboard")
 
