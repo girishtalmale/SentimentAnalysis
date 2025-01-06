@@ -14,7 +14,7 @@ import seaborn as sns
 df = pd.read_csv('data/processed_survey.csv')  # Replace with the correct path to your processed dataset
 results = pd.read_csv('data/model_resultsmain.csv')  # Replace with the path to your model evaluation results
 
-st.title("College Survey Sentiment Analysis Dashboard")
+st.title("@@@College Survey Sentiment Analysis Dashboard@@@")
 
 # # Section 1: Overall Sentiment Distribution
 # st.header("Overall Sentiment Distribution")
